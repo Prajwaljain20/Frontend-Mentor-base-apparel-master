@@ -27,14 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](image.png)
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-base-apparel-master/assets/76695932/f5302bda-b7be-4e9f-a946-bd925ddb137a)
 
-![Alt text](image-1.png)
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-base-apparel-master/assets/76695932/a552f594-41c7-46b8-965f-d6e0a2da8d16)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-base-apparel-master)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-base-apparel-master/)
 
 ## My process
 
